@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="230 220 180 180" fill="none">
+  <defs>
+    <linearGradient id="active-ring" x1="246" y1="240" x2="382" y2="376" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E7E7"/><stop offset=".52" stop-color="#0AA7F5"/><stop offset="1" stop-color="#2F3FE5"/>
+    </linearGradient>
+    <linearGradient id="active-face" x1="270" y1="262" x2="352" y2="351" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10DBE8"/><stop offset=".56" stop-color="#1199F2"/><stop offset="1" stop-color="#294CE1"/>
+    </linearGradient>
+  </defs>
+  <rect x="230" y="220" width="180" height="180" rx="40" fill="#10142D"/>
+  <path d="M 349.963 368.806 A 66 66 0 0 1 259.247 335.788" stroke="url(#active-ring)" stroke-width="12"/>
+  <path d="M 255.692 324.847 A 66 66 0 1 1 385.508 318.043" stroke="url(#active-ring)" stroke-width="12"/>
+  <circle cx="320" cy="310" r="38" fill="url(#active-face)"/>
+  <rect x="295" y="304" width="19" height="12" rx="6" fill="white"/>
+  <rect x="326" y="304" width="19" height="12" rx="6" fill="white"/>
+</svg>
