@@ -1,2 +1,2 @@
-:HL["/_next/static/css/83c3508b8ef3bcca.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"brpt/solutions/other-markets","siblings":["_not-found","_global-error","icon.svg","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"g26UsVVQd7htz-woxgNx1"}
+:HL["/_next/static/css/f9c09f4917defeff.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"brpt/solutions/other-markets","siblings":["_not-found","_global-error","icon.svg","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"t0fW_nGPPkVwPQYHOebR1"}
