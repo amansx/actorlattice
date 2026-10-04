@@ -1,2 +1,2 @@
-:HL["/_next/static/css/612f20ed12f72099.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"en/product/spinoza","siblings":["_not-found","_global-error","icon.svg","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Cr3Td6E-Ss61z7ZAULd6v"}
+:HL["/_next/static/css/83c3508b8ef3bcca.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"en/product/spinoza","siblings":["_not-found","_global-error","icon.svg","sitemap.xml"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"g26UsVVQd7htz-woxgNx1"}
